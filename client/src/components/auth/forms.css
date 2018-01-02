@@ -1,0 +1,33 @@
+fieldset {
+    margin: 10px 0px;
+    padding: 10px;
+    border: 1px solid darkolivegreen;
+    border-radius: 5px;
+}
+input {
+    display: block;
+    width: 90%;
+    border: 1px solid darkolivegreen;
+
+    border-radius: 5px;
+}
+button {
+    background: lightgreen;
+    font-size: 24px;
+    border: 1px solid darkolivegreen;
+    color: darkolivegreen;
+    padding: 3px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.error {
+    color: red;
+    border: 1px solid red;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: pink;
+    margin-bottom: 5px;
+}
+.small-error {
+    color: red;
+}

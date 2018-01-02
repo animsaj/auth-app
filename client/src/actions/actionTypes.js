@@ -1,0 +1,4 @@
+export const AUTHENTICATE = 'AUTHENTICATE';
+export const UNAUTHENTICATE = 'UNAUTHENTICATE';
+export const ERRORS = 'ERRORS';
+export const FETCH_RESPONSE = 'FETCH_RESPONSE';
